@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background: #000; /* Fondo negro */
+    color: #FF4500; /* Texto naranja, el color del fuego */
+  
+    /* Animación de fondo */
+  }
+  .anticon svg{
+    color: white;
+  }
+  :where(.css-dev-only-do-not-override-xu9wm8).ant-upload-wrapper.ant-upload-picture-card-wrapper .ant-upload.ant-upload-select >.ant-upload, :where(.css-dev-only-do-not-override-xu9wm8).ant-upload-wrapper.ant-upload-picture-circle-wrapper .ant-upload.ant-upload-select >.ant-upload{
+    color: white;
+  }
+  
